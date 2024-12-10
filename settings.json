@@ -1000,6 +1000,12 @@
   ],
   "lua": [
     {
+      "command": "lualsp",
+      "url": "https://github.com/Tencent/LuaHelper",
+      "description": "LuaHelper is a High-performance lua plugin, Language Server Protocol for lua.",
+      "requires": []
+    },
+    {
       "command": "emmylua-ls",
       "url": "https://github.com/EmmyLua/EmmyLua-LanguageServer",
       "description": "Emmy Lua Language Server",
